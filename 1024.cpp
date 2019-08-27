@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include<stdio.h>
 
 using namespace std;
 
@@ -17,7 +16,7 @@ int main(){
 	while(t--){
 		
 		getline(cin, s);
-			
+
 		string a = s;
 		
 		for(int i = 0; i < a.size(); i++){
